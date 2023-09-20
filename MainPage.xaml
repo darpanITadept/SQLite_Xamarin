@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SQLiteDemo.MainPage"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true">
+
+    <StackLayout>
+        <Label Text="Welcome to the app" FontSize="20" HorizontalTextAlignment="Center"/>
+
+        <!--form fields for searching and adding-->
+        <Entry x:Name="txtItemId" Placeholder="[optional] Enter the id"/>        
+        <Entry x:Name="txtItemName" Placeholder="What is the task?"/>
+        <Label Text="High Priority?"/>
+        <Switch x:Name="swPriority"/>
+
+
+        <!--insert-->
+        <Button Text="Add Item" Clicked="AddItem_Clicked" HorizontalOptions="Center"/>
+
+
+        <!--get queries-->
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button Text="Get By Id" Clicked="GetItemById_Clicked"/>
+            <Button Text="Get All" Clicked="GetAll_Clicked"/>
+            <Button Text="Get Items By Priority" Clicked="GetItemsByPriority_Clicked"/>            
+        </StackLayout>
+
+        <!--update and delete-->
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button Text="Update Item by Id" Clicked="Update_Clicked"/>
+            <Button Text="Delete Item by Id" Clicked="Delete_Clicked"/>
+        </StackLayout>
+
+        
+
+        <!--display output of queries here-->               
+        <Label Text="Query Results:" FontSize="18" HorizontalTextAlignment="Center"/>
+
+        <!-- a) use this label if operation returns a single item or text (eg: count)-->
+        <Label x:Name="lblResults" TextColor="Blue" HorizontalTextAlignment="Center"/>        
+
+        <!-- b) use the listview if the operation returns a list-->
+        <ListView x:Name="lvItems"/>
+    </StackLayout>
+
+</ContentPage>
+

@@ -1,0 +1,14 @@
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/bin/Debug/netstandard2.0/SQLiteDemo.deps.json
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/bin/Debug/netstandard2.0/SQLiteDemo.dll
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/bin/Debug/netstandard2.0/SQLiteDemo.pdb
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/obj/Debug/netstandard2.0/SQLiteDemo.csproj.AssemblyReference.cache
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/obj/Debug/netstandard2.0/SQLiteDemo.AssemblyInfoInputs.cache
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/obj/Debug/netstandard2.0/SQLiteDemo.AssemblyInfo.cs
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/obj/Debug/netstandard2.0/SQLiteDemo.csproj.CoreCompileInputs.cache
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/obj/Debug/netstandard2.0/SQLiteDemo.dll
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/obj/Debug/netstandard2.0/SQLiteDemo.pdb
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/obj/Debug/netstandard2.0/ref/SQLiteDemo.dll
+/Users/darpanchoudhary128/Projects/SQLiteDemo 2/SQLiteDemo/SQLiteDemo/bin/Debug/netstandard2.0/ref/SQLiteDemo.dll
