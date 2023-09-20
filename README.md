@@ -3,7 +3,7 @@
 
 # Xamarin.Forms SQLiteDemo
 
-![App Screenshot](screenshot.png)
+<img width="467" alt="Screenshot 2023-09-20 at 2 27 49 AM" src="https://github.com/darpanITadept/SQLite_Xamarin/assets/112990024/d960a549-dedf-412c-aa7d-9cba996af38f">
 
 Xamarin.Forms SQLiteDemo is a simple cross-platform mobile app that demonstrates how to perform basic CRUD (Create, Read, Update, Delete) operations using SQLite for local data storage. This app allows users to manage a to-do list, including adding, updating, deleting, and retrieving to-do items from a local SQLite database.
 
